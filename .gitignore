@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Output / generated files
+out/
+
+# Audio files (large, and the Coldplay one is copyrighted)
+*.mp3
+*.wav
+
+# Soundfonts (usually large binaries)
+soundfonts/

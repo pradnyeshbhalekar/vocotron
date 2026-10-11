@@ -1,0 +1,15 @@
+# Stage 1: separation
+demucs
+
+# Stage 2: robotize
+numpy
+scipy
+librosa
+soundfile
+
+# Stage 3: guitar backing
+mido
+pretty_midi
+
+# Stage 4: mixing
+pydub
